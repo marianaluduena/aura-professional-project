@@ -6,13 +6,13 @@
 
 ## Table of contents 📖
 
-- [Summary]()
-- [User Stories and Test Scenarios]()
-- [Tools]()
-- [Test Cases]()
-- [Bugs Reported]()
-- [Metrics]()
-- [Achievements during this Project]()
+- [Summary](https://github.com/marianaluduena/aura-professional-project/blob/main/README.md#summary-)
+- [User Stories and Test Scenarios](https://github.com/marianaluduena/aura-professional-project/blob/main/README.md#user-stories-and-test-scenarios)
+- [Tools](https://github.com/marianaluduena/aura-professional-project/blob/main/README.md#tools-%EF%B8%8F)
+- [Test Cases](https://github.com/marianaluduena/aura-professional-project/blob/main/README.md#test-cases-)
+- [Bugs Reported](https://github.com/marianaluduena/aura-professional-project/blob/main/README.md#bugs-reported-)
+- [Metrics](https://github.com/marianaluduena/aura-professional-project/blob/main/README.md#metrics-)
+- [Achievements during this Project](https://github.com/marianaluduena/aura-professional-project/blob/main/README.md#achievements-during-this-project-)
 
 ## Summary: 📚
 
@@ -89,7 +89,7 @@ During this project I had:
 
 ### Achievements during this Project 🏆
   
-- Demonstrated **adaptability to work in an agile environment.**
+- **Quickly adapted to a new environment and contributed effectively to a project already in progress.**
   
-- ** **
+- **16% of the bugs found in the API resulted in 500 server errors and 404 errors due to incorrectly implemented endpoints.**
   
