@@ -27,11 +27,8 @@ During this project I had:
 - **Weekly reviews of the project and feedback.** 
 
 - **Meetings with my QA team.**
-  
-<div align = "center">
-<img src =  alt = "Img to be added" width= "700" />
- </div>
 
+  
  ----------------------------------------------
 
 ### User Stories and Test Scenarios
