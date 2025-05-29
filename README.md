@@ -80,6 +80,8 @@ During this project I had:
 
 ### Metrics 📈
 
+- **[Report Charts](https://docs.google.com/spreadsheets/d/1qvZpIQ7seg-PsZmBNYIQ7yKnAbGCR3TLueGjDdOE4Lw/edit?usp=sharing)**
+  
 - **[Quality Report- SOON](#)**
   
 ----------------------------------------------
