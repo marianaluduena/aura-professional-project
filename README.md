@@ -3,6 +3,8 @@
 - Here is all the documentation generated from the AURA project builded during my 3rd IT training programm in **Foo Talent Group**.
 
 - ❗ Please note that this project and documentation is in **Spanish and still in progress**, but **I will translate the final quality report to English.**
+  
+- If you want to check the work of the whole team, the project's technologies and meet my team mates, **[this is the repo (in Spanish)](https://github.com/FooTalentGroup/AURA)**
 
 ## Table of contents 📖
 
