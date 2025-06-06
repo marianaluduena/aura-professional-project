@@ -15,7 +15,7 @@
 - [Bugs Reported](https://github.com/marianaluduena/aura-professional-project/blob/main/README.md#bugs-reported-)
 - [Metrics](https://github.com/marianaluduena/aura-professional-project/blob/main/README.md#metrics-)
 - [Achievements during this Project](https://github.com/marianaluduena/aura-professional-project/blob/main/README.md#achievements-during-this-project-)
-- [Certificate](https://github.com/marianaluduena/aura-professional-project/blob/main/README.md#certificate)
+
 
 ## Summary: 📚
 
