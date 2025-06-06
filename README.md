@@ -15,6 +15,7 @@
 - [Bugs Reported](https://github.com/marianaluduena/aura-professional-project/blob/main/README.md#bugs-reported-)
 - [Metrics](https://github.com/marianaluduena/aura-professional-project/blob/main/README.md#metrics-)
 - [Achievements during this Project](https://github.com/marianaluduena/aura-professional-project/blob/main/README.md#achievements-during-this-project-)
+- [Certificate]()
 
 ## Summary: 📚
 
@@ -93,4 +94,10 @@ During this project I had:
 - **Quickly adapted to a new environment and contributed effectively to a project already in progress.**
   
 - **16% of the bugs found in the API resulted in 500 server errors and 404 errors due to incorrectly implemented endpoints.**
+
+----------------------------------------------
+
+### Certificate
+
+- [Foo Talent Group Certificate](https://drive.google.com/file/d/1pGWaoPqNjZwKWGeyROKpmOLwJgzg9n7k/view?usp=drive_link)
   
