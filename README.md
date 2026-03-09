@@ -79,15 +79,13 @@ During this project I had:
 
 - **[Report Charts](https://docs.google.com/spreadsheets/d/1qvZpIQ7seg-PsZmBNYIQ7yKnAbGCR3TLueGjDdOE4Lw/edit?usp=sharing)**
   
-- **[Quality Report- SOON](#)**
-  
 ----------------------------------------------
 
 ### Achievements during this Project 🏆
   
 - **Quickly adapted to a new environment and contributed effectively to a project already in progress.**
   
-- **16% of the bugs found in the API resulted in 500 server errors and 404 errors due to incorrectly implemented endpoints.**
+- **16% of the bugs found in the API resulted in 500 server errors and 404 Not Found errors due to incorrectly implemented endpoints.**
   
 - **[Foo Talent Group Certificate earned](https://drive.google.com/file/d/1pGWaoPqNjZwKWGeyROKpmOLwJgzg9n7k/view?usp=drive_link)**
 
