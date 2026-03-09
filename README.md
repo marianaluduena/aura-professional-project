@@ -55,11 +55,7 @@ During this project I had:
 - **Loom (to document evidence)**
   
 - **Clickup**
-  
-- **JMeter (soon)**
-  
-- **Playwright (soon)**
-  
+
 ----------------------------------------------
 
 ### Test Cases 🧪
