@@ -64,8 +64,6 @@ During this project I had:
   
 - **[Test Cases Frontend and Backend](https://docs.google.com/spreadsheets/d/1hx5iP6PHdi9aRmCx3RxmzY81NeUtTOVbyuW3f8nZBhw/edit?usp=sharing)**
   
-- ⚠️ **New test cases will be added soon, this is a project still in progress**
-
 ----------------------------------------------
 
 ### Bugs Reported 🐞
