@@ -1,8 +1,8 @@
 # aura-professional-project
 
-- Here is all the documentation generated from the AURA project builded during my 3rd IT training programm in **Foo Talent Group**.
+- Here is all the documentation generated from the AURA project builded during my 3rd IT training program in **Foo Talent Group**.
 
-- ❗ Please note that this project and documentation is in **Spanish**, but **I will translate the final quality report to English.**
+- ❗ Please note that this project and documentation is in **Spanish**.
   
 - If you want to check the work of the whole team, the project's technologies and meet my team mates, **[this is the repo (in Spanish)](https://github.com/FooTalentGroup/AURA)**
 
